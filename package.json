@@ -11,7 +11,7 @@
   },
   "repository": "https://github.com/brave/adblock-rust.git",
   "dependencies": {
-    "neon-cli": "0.4.0"
+    "neon-cli": "0.5.3"
   },
   "scripts": {
     "install": "neon build --release"
